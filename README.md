@@ -1,2 +1,1 @@
-# magic
-My first github page
+# My first github page
